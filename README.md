@@ -23,7 +23,6 @@ The project showcases practical application of Python scripting, multi-threading
 - **Configurable Performance**: Adjustable worker threads and connection timeouts for different network conditions
 - **Thread-Safe Execution**: Implements `Lock` and `Semaphore` to prevent race conditions and resource exhaustion
 - **Performance Tracking**: Built-in execution timer for measuring and optimizing scan duration
-- **Output Automation**: Supports result redirection to files for automated reporting and documentation
 - **Cross-Platform Compatibility**: Works on Linux/Unix, Windows, and virtual environments without modification
 - **Zero Dependencies**: 100% Python standard library implementation for easy deployment
 
